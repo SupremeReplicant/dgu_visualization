@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>2575174</id>
+      <size>29</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-06-16 15:57:07.466228+00:00</created>
+      <updated>2025-06-16 16:04:55.813334+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>28</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2577372</id>
+          <start>0</start>
+          <stop>28</stop>
+          <url>https://app.cvat.ai/api/jobs/2575174</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>_3141W</username>
+        <email>Destroyallovertheworld@mail.ru</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Crosshair_max</name>
+          <color>#ee0831</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Crosshair_center</name>
+          <color>#92af38</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-06-16 16:05:31.681183+00:00</dumped>
+  </meta>
+  <image id="0" name="01.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="97.57" ytl="126.23" xbr="147.42" ybr="183.32" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="02.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="560.64" ytl="55.88" xbr="609.73" ybr="111.76" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="03.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="164.66" ytl="62.71" xbr="213.35" ybr="120.60" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="04.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="182.35" ytl="104.93" xbr="230.23" ybr="160.40" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="05.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="78.67" ytl="179.30" xbr="128.93" ybr="235.98" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="06.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="83.50" ytl="135.48" xbr="132.54" ybr="191.36" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="07.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="63.76" ytl="203.42" xbr="112.84" ybr="259.30" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="08.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="69.03" ytl="178.09" xbr="118.47" ybr="234.77" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="09.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="66.61" ytl="211.86" xbr="114.45" ybr="266.94" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="10.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="142.96" ytl="163.62" xbr="192.44" ybr="220.30" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="11.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="127.28" ytl="174.47" xbr="175.56" ybr="230.35" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="12.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="153.81" ytl="151.16" xbr="202.89" ybr="206.63" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="13.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="165.87" ytl="126.23" xbr="214.15" ybr="182.51" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="14.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="167.88" ytl="203.02" xbr="216.56" ybr="258.89" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="15.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="67.42" ytl="211.86" xbr="114.85" ybr="267.74" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="16.JPG" width="696" height="480">
+    <box label="Crosshair_center" source="manual" occluded="0" xtl="294.91" ytl="215.48" xbr="346.41" ybr="267.34" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="17.JPG" width="696" height="480">
+    <box label="Crosshair_center" source="manual" occluded="0" xtl="294.11" ytl="215.48" xbr="346.41" ybr="267.74" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="18.JPG" width="696" height="480">
+    <box label="Crosshair_center" source="manual" occluded="0" xtl="295.32" ytl="215.08" xbr="346.81" ybr="266.94" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="19.JPG" width="696" height="480">
+    <box label="Crosshair_center" source="manual" occluded="0" xtl="295.72" ytl="215.48" xbr="346.81" ybr="267.74" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="20.JPG" width="696" height="480">
+    <box label="Crosshair_center" source="manual" occluded="0" xtl="294.11" ytl="214.67" xbr="346.41" ybr="266.94" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="21.JPG" width="696" height="480">
+    <box label="Crosshair_center" source="manual" occluded="0" xtl="294.11" ytl="214.27" xbr="347.22" ybr="268.54" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="22.JPG" width="696" height="480">
+    <box label="Crosshair_center" source="manual" occluded="0" xtl="294.91" ytl="214.67" xbr="348.42" ybr="267.34" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="23.JPG" width="696" height="480">
+    <box label="Crosshair_center" source="manual" occluded="0" xtl="294.91" ytl="215.08" xbr="346.81" ybr="268.95" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="24.JPG" width="696" height="480">
+    <box label="Crosshair_center" source="manual" occluded="0" xtl="294.51" ytl="215.08" xbr="347.62" ybr="267.74" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="25.JPG" width="696" height="480">
+    <box label="Crosshair_center" source="manual" occluded="0" xtl="294.51" ytl="214.27" xbr="347.62" ybr="268.54" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="26.JPG" width="696" height="480">
+    <box label="Crosshair_center" source="manual" occluded="0" xtl="294.91" ytl="213.87" xbr="347.62" ybr="266.94" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="27.JPG" width="696" height="480">
+    <box label="Crosshair_center" source="manual" occluded="0" xtl="294.11" ytl="214.27" xbr="347.22" ybr="268.54" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="28.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="144.56" ytl="162.41" xbr="193.25" ybr="217.49" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="29.JPG" width="696" height="480">
+    <box label="Crosshair_max" source="manual" occluded="0" xtl="219.74" ytl="155.58" xbr="267.62" ybr="210.65" z_order="0">
+    </box>
+  </image>
+</annotations>
